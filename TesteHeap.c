@@ -9,3 +9,8 @@ int main(void)
 	
 	return 0;
 }
+
+void SegundoCommit (int i){
+
+}
+
